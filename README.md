@@ -48,8 +48,7 @@
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/Irtaza-Ghafoor/DeepSearch-Enterprise-AI.git](https://github.com/Irtaza-Ghafoor/DeepSearch-Enterprise-AI.git)
-cd DeepSearch-Enterprise-AI
-```bash
+cd DeepSearch-Enterprise-AI ```bash
 
 ### 2. Install Dependencies
  * Make sure you have Python installed, then run:
