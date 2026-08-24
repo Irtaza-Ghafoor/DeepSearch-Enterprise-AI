@@ -45,10 +45,14 @@
 
 ## ⚙️ Installation & Local Setup
 
-```bash
+
+
 ### 1. Clone the Repository
+
+```bash
 git clone [https://github.com/Irtaza-Ghafoor/DeepSearch-Enterprise-AI.git](https://github.com/Irtaza-Ghafoor/DeepSearch-Enterprise-AI.git)
-cd DeepSearch-Enterprise-AI
+cd DeepSearch-Enterprise-AI 
+```
 
 ### 2. Install Dependencies
  * Make sure you have Python installed, then run:
