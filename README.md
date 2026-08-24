@@ -49,3 +49,15 @@
 ```bash
 git clone [https://github.com/Irtaza-Ghafoor/DeepSearch-Enterprise-AI.git](https://github.com/Irtaza-Ghafoor/DeepSearch-Enterprise-AI.git)
 cd DeepSearch-Enterprise-AI
+```bash
+
+### 2. Install Dependencies
+ * Make sure you have Python installed, then run:
+  * pip install streamlit groq langchain-groq duckduckgo_search python-dotenv
+
+### 3. Configure Environment Variables
+ * Create a .env file in the root directory of your project and add your Groq API key:
+  * GROQ_API_KEY=your_groq_api_key_here
+
+### 4. Run the Application
+ * streamlit run app.py
